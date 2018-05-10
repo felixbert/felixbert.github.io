@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A blog by Felix Bert</title>
-    <link>http://localhost:1313/</link>
+    <link>http://felixbert.github.io/</link>
     <description>Recent content on A blog by Felix Bert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://felixbert.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://felixbert.github.io/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://felixbert.github.io/about/</guid>
       <description>Hi, my name is Felix Bert and this is my personal homepage.
 I am interested in all things related to data analysis and programming. You can find my CV here shortly: Curriculum Vitae.
 Currently, I am finishing my master&amp;rsquo;s degree in business administration and engineering at TU Darmstadt. After graduation at the end of this year, I am looking for opportunities to work with data.

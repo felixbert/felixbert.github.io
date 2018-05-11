@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curriculum Vitae on A blog by Felix Bert</title>
+    <link>http://felixbert.github.io/tags/curriculum-vitae/</link>
+    <description>Recent content in Curriculum Vitae on A blog by Felix Bert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 May 2018 14:46:09 +0800</lastBuildDate>
+    
+	<atom:link href="http://felixbert.github.io/tags/curriculum-vitae/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://felixbert.github.io/cv/</link>
+      <pubDate>Wed, 09 May 2018 14:46:09 +0800</pubDate>
+      
+      <guid>http://felixbert.github.io/cv/</guid>
+      <description>For privacy and other reasons I have omitted information from this online CV. If you are interested in a conversation, please send me an e-mail, and I will forward you my updated CV in .pdf-format.
+ Contact Information          Name Felix Bert   Place of residence Frankfurt a.M., Germany   Nationality German   E-Mail felix.bert@yahoo.com    Experience Software Development, Institute of Automotive Engineering (FZD), TU Darmstadt Dec 2017&amp;ndash;Mar 2018</description>
+    </item>
+    
+  </channel>
+</rss>
